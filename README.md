@@ -1,2 +1,3 @@
 # EDA_Anime
-EDA dos Animes de 2022,  18.495 linhas e 17 colunas. Retirado de: https://www.anime-planet.com/
+EDA dos top 250 animes de 2023, 250 linhas e 12 colunas. Retirado de: https://myanimelist.net/topanime.php
+Dataset obtido no Kaggle
